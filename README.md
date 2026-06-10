@@ -52,8 +52,3 @@
 ![Qualcomm](https://img.shields.io/badge/Qualcomm%20QCS-3253DC?style=flat-square&logo=qualcomm&logoColor=white)
 
 ---
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rumitvn&show_icons=true&hide_border=true&count_private=true&title_color=37b693&icon_color=3a7bbf&text_color=c9d1d9&bg_color=0b1e2d" alt="Rum's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumitvn&layout=compact&hide_border=true&title_color=37b693&text_color=c9d1d9&bg_color=0b1e2d" alt="Top languages">
-</p>
